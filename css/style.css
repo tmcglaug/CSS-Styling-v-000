@@ -59,5 +59,14 @@ background: aqua;
 
 #logo h2 {
 font-family: 'Elsie Swash Caps', cursive;
+
+}
+
+/* Pseudo Select */
+
+#details a:link {
+  color: black;
+  text-decoration: none;
   
 }
+
