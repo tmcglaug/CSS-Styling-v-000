@@ -55,6 +55,9 @@ background: aqua;
 /* selects h1 if inside id = logo */
    font-family: 'Clicker Script', cursive;
 
+}
 
+#logo h2 {
+font-family: 'Elsie Swash Caps', cursive;
   
 }
