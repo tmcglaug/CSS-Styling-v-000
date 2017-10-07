@@ -80,5 +80,9 @@ font-family: 'Elsie Swash Caps', cursive;
 color: black;
 text-decoration: underline;
 
-  
+}
+
+details a:active {
+color: red;
+
 }
